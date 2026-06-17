@@ -498,5 +498,27 @@
     "processed": false,
     "discordSent": false,
     "date": "2026-06-17T22:59:41.311Z"
+  },
+  {
+    "id": "ORD-752566-I0W",
+    "username": "ᘎᘎ𝟣 🍁",
+    "discord_id": "987274731818483712",
+    "items": [
+      {
+        "name": "knlknlkl",
+        "price": 77,
+        "type": "vehicle"
+      },
+      {
+        "name": "hghgh",
+        "price": 40,
+        "type": "vehicle"
+      }
+    ],
+    "total": 117,
+    "status": "pending",
+    "processed": false,
+    "discordSent": false,
+    "date": "2026-06-17T23:42:33.134Z"
   }
 ]
