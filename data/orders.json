@@ -569,5 +569,32 @@
     "processed": false,
     "discordSent": false,
     "date": "2026-06-17T23:43:16.726Z"
+  },
+  {
+    "id": "ORD-838134-TAA",
+    "username": "ᘎᘎ𝟣 🍁",
+    "discord_id": "987274731818483712",
+    "items": [
+      {
+        "name": "knlknlkl",
+        "price": 77,
+        "type": "vehicle"
+      },
+      {
+        "name": "hghgh",
+        "price": 40,
+        "type": "vehicle"
+      },
+      {
+        "name": "sddsdsd",
+        "price": 312,
+        "type": "vehicle"
+      }
+    ],
+    "total": 429,
+    "status": "pending",
+    "processed": false,
+    "discordSent": false,
+    "date": "2026-06-17T23:43:58.736Z"
   }
 ]
