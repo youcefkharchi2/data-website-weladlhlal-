@@ -7,7 +7,7 @@
     "price": "12",
     "name": "bmw m5 ",
     "description": "kolach batalll m3a 001 ",
-    "sold": false,
+    "sold": true,
     "created_at": "2026-06-18T16:56:21.510Z",
     "id": 1781801781510
   }
