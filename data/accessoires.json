@@ -17,7 +17,7 @@
     "price": 2323,
     "name": "dfddf",
     "description": "ddf",
-    "sold": false,
+    "sold": true,
     "created_at": "2026-06-18T18:33:07.482Z",
     "id": 1781807587482
   }
