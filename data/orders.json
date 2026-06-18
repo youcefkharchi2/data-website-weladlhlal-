@@ -667,5 +667,27 @@
     "processed": false,
     "discordSent": false,
     "date": "2026-06-18T00:23:38.573Z"
+  },
+  {
+    "id": "ORD-680861-6BK",
+    "username": "ᘎᘎ𝟣 🍁",
+    "discord_id": "987274731818483712",
+    "items": [
+      {
+        "name": "knlknlkl",
+        "price": 77,
+        "type": "vehicle"
+      },
+      {
+        "name": "hghgh",
+        "price": 40,
+        "type": "vehicle"
+      }
+    ],
+    "total": 117,
+    "status": "pending",
+    "processed": false,
+    "discordSent": false,
+    "date": "2026-06-18T00:31:21.644Z"
   }
 ]
