@@ -54,5 +54,22 @@
     "processed": false,
     "discordSent": false,
     "date": "2026-06-19T02:29:38.438Z"
+  },
+  {
+    "id": "ORD-703485-IMY",
+    "username": "زائر",
+    "discord_id": null,
+    "items": [
+      {
+        "name": "BMW SERIE3",
+        "price": 20,
+        "type": "vehicle"
+      }
+    ],
+    "total": 20,
+    "status": "pending",
+    "processed": false,
+    "discordSent": false,
+    "date": "2026-06-19T02:38:26.436Z"
   }
 ]
