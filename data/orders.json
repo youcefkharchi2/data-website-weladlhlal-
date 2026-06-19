@@ -71,5 +71,22 @@
     "processed": false,
     "discordSent": false,
     "date": "2026-06-19T02:38:26.436Z"
+  },
+  {
+    "id": "ORD-737753-6E9",
+    "username": "DZ | YOUCEF DARK SLAYER",
+    "discord_id": "1410791072895860798",
+    "items": [
+      {
+        "name": "Merc E63s ",
+        "price": 20,
+        "type": "vehicle"
+      }
+    ],
+    "total": 20,
+    "status": "pending",
+    "processed": false,
+    "discordSent": false,
+    "date": "2026-06-19T05:58:56.545Z"
   }
 ]
