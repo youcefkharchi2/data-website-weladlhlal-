@@ -108,5 +108,22 @@
     "processed": false,
     "discordSent": false,
     "date": "2026-06-19T16:10:52.894Z"
+  },
+  {
+    "id": "ORD-172572-GRC",
+    "username": "Pastisa",
+    "discord_id": "1111652813458645042",
+    "items": [
+      {
+        "name": "VOGE",
+        "price": 19.99,
+        "type": "vehicle"
+      }
+    ],
+    "total": 19.99,
+    "status": "pending",
+    "processed": false,
+    "discordSent": false,
+    "date": "2026-06-19T19:42:51.601Z"
   }
 ]
