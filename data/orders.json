@@ -88,5 +88,22 @@
     "processed": false,
     "discordSent": false,
     "date": "2026-06-19T05:58:56.545Z"
+  },
+  {
+    "id": "ORD-987227-UXT",
+    "username": "زائر",
+    "discord_id": null,
+    "items": [
+      {
+        "name": "VARIS S7",
+        "price": 19.99,
+        "type": "vehicle"
+      }
+    ],
+    "total": 19.99,
+    "status": "pending",
+    "processed": false,
+    "discordSent": false,
+    "date": "2026-06-19T09:06:26.758Z"
   }
 ]
