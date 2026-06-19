@@ -105,5 +105,22 @@
     "processed": false,
     "discordSent": false,
     "date": "2026-06-19T09:06:26.758Z"
+  },
+  {
+    "id": "ORD-062993-NIA",
+    "username": "زائر",
+    "discord_id": null,
+    "items": [
+      {
+        "name": "Merc E63s ",
+        "price": 20,
+        "type": "vehicle"
+      }
+    ],
+    "total": 20,
+    "status": "pending",
+    "processed": false,
+    "discordSent": false,
+    "date": "2026-06-19T09:41:05.993Z"
   }
 ]
