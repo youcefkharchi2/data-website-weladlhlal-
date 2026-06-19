@@ -32,5 +32,27 @@
     "processed": false,
     "discordSent": false,
     "date": "2026-06-19T02:21:16.718Z"
+  },
+  {
+    "id": "ORD-179753-G5V",
+    "username": "DZ | YOUCEF DARK SLAYER",
+    "discord_id": "1410791072895860798",
+    "items": [
+      {
+        "name": "Merc E63s ",
+        "price": 20,
+        "type": "vehicle"
+      },
+      {
+        "name": "GT 63S",
+        "price": 24.99,
+        "type": "vehicle"
+      }
+    ],
+    "total": 44.989999999999995,
+    "status": "pending",
+    "processed": false,
+    "discordSent": false,
+    "date": "2026-06-19T02:29:38.438Z"
   }
 ]
