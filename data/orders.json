@@ -139,5 +139,22 @@
     "processed": false,
     "discordSent": false,
     "date": "2026-06-19T09:44:33.180Z"
+  },
+  {
+    "id": "ORD-206115-28K",
+    "username": "زائر",
+    "discord_id": null,
+    "items": [
+      {
+        "name": "BMW M3 COP",
+        "price": 20,
+        "type": "vehicle"
+      }
+    ],
+    "total": 20,
+    "status": "pending",
+    "processed": false,
+    "discordSent": false,
+    "date": "2026-06-19T11:40:22.859Z"
   }
 ]
