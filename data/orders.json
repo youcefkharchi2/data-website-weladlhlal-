@@ -159,5 +159,22 @@
     "processed": false,
     "discordSent": false,
     "date": "2026-06-21T08:02:54.565Z"
+  },
+  {
+    "id": "ORD-508223-XWT",
+    "username": "ᘎᘎ𝟣 </> 🍁",
+    "discord_id": "987274731818483712",
+    "items": [
+      {
+        "name": "HIGH SPEED",
+        "price": 19.99,
+        "type": "vehicle"
+      }
+    ],
+    "total": 19.99,
+    "status": "pending",
+    "processed": false,
+    "discordSent": false,
+    "date": "2026-06-21T08:28:29.574Z"
   }
 ]
