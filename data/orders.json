@@ -193,5 +193,22 @@
     "processed": false,
     "discordSent": false,
     "date": "2026-06-24T00:26:23.140Z"
+  },
+  {
+    "id": "ORD-097623-M0E",
+    "username": "!                     𝑯𝑰𝑷𝑬𝑿",
+    "discord_id": "1143791277087920158",
+    "items": [
+      {
+        "name": "M5 COMP",
+        "price": 49.99,
+        "type": "vehicle"
+      }
+    ],
+    "total": 49.99,
+    "status": "pending",
+    "processed": false,
+    "discordSent": false,
+    "date": "2026-06-24T04:58:18.301Z"
   }
 ]
