@@ -176,5 +176,22 @@
     "processed": false,
     "discordSent": false,
     "date": "2026-06-21T08:28:29.574Z"
+  },
+  {
+    "id": "ORD-782627-G9A",
+    "username": "DZ | YOUCEF DARK SLAYER",
+    "discord_id": "1410791072895860798",
+    "items": [
+      {
+        "name": "GOLF 3GTI",
+        "price": 9.99,
+        "type": "vehicle"
+      }
+    ],
+    "total": 9.99,
+    "status": "pending",
+    "processed": false,
+    "discordSent": false,
+    "date": "2026-06-24T00:26:23.140Z"
   }
 ]
