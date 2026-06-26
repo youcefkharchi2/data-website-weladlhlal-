@@ -210,5 +210,22 @@
     "processed": false,
     "discordSent": false,
     "date": "2026-06-24T04:58:18.301Z"
+  },
+  {
+    "id": "ORD-471398-LKT",
+    "username": "༻Adem ༻",
+    "discord_id": "1484938855348965576",
+    "items": [
+      {
+        "name": "RS7",
+        "price": 19.99,
+        "type": "vehicle"
+      }
+    ],
+    "total": 19.99,
+    "status": "pending",
+    "processed": false,
+    "discordSent": false,
+    "date": "2026-06-26T14:51:11.341Z"
   }
 ]
