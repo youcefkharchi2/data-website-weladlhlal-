@@ -356,5 +356,22 @@
     "processed": false,
     "discordSent": false,
     "date": "2026-06-29T23:10:38.922Z"
+  },
+  {
+    "id": "ORD-235747-GKX",
+    "username": "Pastisa",
+    "discord_id": "1111652813458645042",
+    "items": [
+      {
+        "name": "VOGE",
+        "price": 19.99,
+        "type": "vehicle"
+      }
+    ],
+    "total": 19.99,
+    "status": "pending",
+    "processed": false,
+    "discordSent": false,
+    "date": "2026-07-01T05:03:53.428Z"
   }
 ]
